@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Rustlandia'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6C95C9E9993E48BDBC1F8A6868E3A74F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B79B23C8A2884EC8886D6B088DE826CE }}
           package: .
